@@ -14,3 +14,4 @@ Perform statistical analysis to understand the most frequently bought item categ
 Train a neural network model to take a query embedding and query type as input and predict an output embedding that resembles a complementary product embedding.
 
 # Model Architechture
+![alt text](https://github.com/bhavya-rema/E-Commerce-Recommendation/blob/main/Recommendation.png)
