@@ -9,7 +9,7 @@ The approach here uses the kaggle dataset https://www.kaggle.com/mkechinov/ecomm
 The dataset contains information on user behaviour with events such as view, cart and purchase with user id and user session, product information such as id, category and price.
 
 # Approach
-Create a product embedding model using Graph Neural Network so as to create embeddings for all products including cold tart items.
+Create a product embedding model using Graph Neural Network so as to create embeddings for all products including cold start items.
 Perform statistical analysis to understand the most frequently bought item categories for a query category.
 Train a neural network model to take a query embedding and query type as input and predict an output embedding that resembles a complementary product embedding.
 
